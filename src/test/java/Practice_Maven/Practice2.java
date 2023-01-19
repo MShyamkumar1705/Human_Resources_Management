@@ -1,5 +1,7 @@
 package Practice_Maven;
 
+import org.testng.annotations.Test;
+
 public class Practice2 {
 
 	@Test
